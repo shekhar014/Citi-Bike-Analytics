@@ -7,6 +7,7 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 
 
 1.How many trips have been recorded total during the chosen period?
+
 2.By what percentage has total ridership grown? 
 3.How has the proportion of short-term customers and annual subscribers changed?
 
